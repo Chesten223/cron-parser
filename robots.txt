@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cron-parser.pages.dev/sitemap.xml
